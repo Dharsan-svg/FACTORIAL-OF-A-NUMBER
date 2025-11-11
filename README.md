@@ -1,9 +1,11 @@
 # FACTORIAL-OF-A-NUMBER-USING-8051-KEIL
 
+
 **AIM:**
 
 To write and execute Assembly language Program to perform factorial of a number using 8051 keil.
 APPARATUS REQUIRED: Personal computer with Keil software
+
 
 **ALGORITHM:**
 
@@ -27,11 +29,14 @@ APPARATUS REQUIRED: Personal computer with Keil software
 
 • End
 
+
 **FLOW CHART:**
+
 <img width="261" height="308" alt="image" src="https://github.com/user-attachments/assets/bffe89f6-3ba9-4294-b817-8b545f680e66" />
 
-**Program:**
 
+**Program:**
+~~~
 ORG 0000H   
 
 MOV A,#04H  
@@ -62,25 +67,16 @@ THIN:
 
 END
 
+~~~
+
 **Output:**  
 
-<br>
-<br>
-<br>
-
+<img width="1729" height="756" alt="image" src="https://github.com/user-attachments/assets/68aa7648-33cf-42f4-915c-ccb83e319ab2" />
 
 
 **Manual Calculations:**  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
+![WhatsApp Image 2025-11-11 at 21 11 17_52f20357](https://github.com/user-attachments/assets/a37d085e-c169-4163-80c7-8b56697a6553)
 
 
 **Result:**
